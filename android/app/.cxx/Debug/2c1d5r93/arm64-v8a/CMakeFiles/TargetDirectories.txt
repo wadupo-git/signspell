@@ -1,0 +1,2 @@
+C:/Users/loq/Documents/Bachelor In SC/FYP 2/test2/android/app/.cxx/Debug/2c1d5r93/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/loq/Documents/Bachelor In SC/FYP 2/test2/android/app/.cxx/Debug/2c1d5r93/arm64-v8a/CMakeFiles/rebuild_cache.dir
