@@ -21,6 +21,18 @@ SignSpell is a dynamic and intuitive mobile application designed to bridge commu
 
 ---
 
+## 📸 Screenshots
+
+See the SignSpell application in action!
+
+| User Login & Dashboard | Text-to-Sign Feature | Admin Dashboard |
+| :---: | :---: | :---: |
+|  |  |  |
+| **Profile & Activity Tracking** | **Full Sign Video Demonstration** | **Admin User Management** |
+|  |  |  |
+
+---
+
 ## 🛠️ Technology Stack
 
 | Component | Technology | Notes |
@@ -73,3 +85,7 @@ To access the Admin Login page for demonstration:
 * **Danial Syakir** (3D Hand Animation & Assets)
 
 ---
+
+The new section is ready! You will need to upload your actual image files to your repository and replace the bracketed placeholders `` with the correct markdown linking to those image files (e.g., `![User Login](path/to/your/login_screen.png)`).
+
+Would you like me to help you format the image links once you have the file paths?
