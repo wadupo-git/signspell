@@ -27,9 +27,9 @@ See the SignSpell application in action!
 
 | User Login & Sign In | Text-to-Sign Feature | Admin Dashboard |
 | :---: | :---: | :---: |
-| ![User Login](screenshots/1_user_login.jpg) | ![Text-to-Sign Animation](screenshots/2_text_to_sign.jpg) | ![Admin Overview Statistics](screenshots/3_admin_dashboard.png) |
+| ![User Login](screenshots/1_user_login.jpg) | ![Text-to-Sign Animation](screenshots/2_text_to_sign.jpg) | ![Admin Overview Statistics](screenshots/3_admin_dashboard.jpg) |
 | **Profile & Activity Tracking** | **Admin User Management** | 
-| ![Profile & Activity](screenshots/4_profile_activity.png) | ![Admin User List](screenshots/5_admin_user_management.png) | 
+| ![Profile & Activity](screenshots/4_profile_activity.jpg) | ![Admin User List](screenshots/5_admin_user_management.jpg) | 
 ---
 
 ## 🛠️ Technology Stack
