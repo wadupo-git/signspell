@@ -84,7 +84,3 @@ To access the Admin Login page for demonstration:
 * **Danial Syakir** (3D Hand Animation & Assets)
 
 ---
-
-The new section is ready! You will need to upload your actual image files to your repository and replace the bracketed placeholders `` with the correct markdown linking to those image files (e.g., `![User Login](path/to/your/login_screen.png)`).
-
-Would you like me to help you format the image links once you have the file paths?
