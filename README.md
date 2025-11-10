@@ -25,12 +25,11 @@ SignSpell is a dynamic and intuitive mobile application designed to bridge commu
 
 See the SignSpell application in action!
 
-| User Login & Dashboard | Text-to-Sign Feature | Admin Dashboard |
+| User Login & Sign In | Text-to-Sign Feature | Admin Dashboard |
 | :---: | :---: | :---: |
-|  |  |  |
-| **Profile & Activity Tracking** | **Full Sign Video Demonstration** | **Admin User Management** |
-|  |  |  |
-
+| ![User Login](screenshots/1_user_login.jpg) | ![Text-to-Sign Animation](screenshots/2_text_to_sign.jpg) | ![Admin Overview Statistics](screenshots/3_admin_dashboard.png) |
+| **Profile & Activity Tracking** | **Admin User Management** | 
+| ![Profile & Activity](screenshots/4_profile_activity.png) | ![Admin User List](screenshots/5_admin_user_management.png) | 
 ---
 
 ## 🛠️ Technology Stack
